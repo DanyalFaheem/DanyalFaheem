@@ -10,7 +10,7 @@ You can contact me on
 
 [LinkedIn](https://www.linkedin.com/in/danyal-faheem-0268111b3/ "Danyal Faheem's LinkedIn")
 
-[Email](danyalfaheem@gmail.com "Danyal Faheem's Email")
+[Email](mailto:danyalfaheem@gmail.com "Danyal Faheem's Email")
 
 *Happy Coding!*
 
