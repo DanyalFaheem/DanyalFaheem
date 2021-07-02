@@ -12,7 +12,7 @@ You can contact me on
 
 [Email](mailto:danyalfaheem@gmail.com "Danyal Faheem's Email")
 
-You can view my other projects on [Repl.it](https://replit.com/@DanyalFaheem/ "Danyal Faheem's Repl)
+You can view my other projects on [Repl.it](https://replit.com/@DanyalFaheem/ "Danyal Faheem's Repl")
 
 *Happy Coding!*
 
