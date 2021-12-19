@@ -1,6 +1,6 @@
 **Hello, I am Danyal Faheem.**
 
-I am an aspiring software and web developer currenty enrolled as a student in Computer Science.
+I am an aspiring software developer currenty enrolled as a student in Computer Science.
 
 I am proficient in C++ and am currrently in the process of learning HTML, CSS, Javascript and Bootstrap.
 
