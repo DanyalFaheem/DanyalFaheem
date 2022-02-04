@@ -2,9 +2,11 @@
 
 I am an aspiring software developer currenty enrolled as a student in Computer Science.
 
-I am proficient in C++ and am currrently in the process of learning HTML, CSS, Javascript and Bootstrap.
+I have been working with many tools such as C++, Javascript/Typescript and the Angular Framework.
 
-I have also learned Assembly Language as well as Oracle SQL.
+I have also learned Python, Assembly Language as well as Oracle SQL.
+
+Currently, I am trying to learn server side technologies such as Node JS.
 
 You can contact me on 
 
