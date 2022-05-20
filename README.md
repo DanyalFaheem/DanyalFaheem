@@ -2,7 +2,7 @@
 
 I am an aspiring software developer currenty enrolled as a student in Computer Science.
 
-I have been working with many tools such as C++, Javascript/Typescript and the Angular Framework.
+I have been working with many tools such as C++ and Javascript/Typescript.
 
 I have also learned Python, Assembly Language as well as Oracle SQL.
 
