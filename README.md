@@ -18,6 +18,8 @@ You can view my other projects on [Repl.it](https://replit.com/@DanyalFaheem/ "D
 
 *Happy Coding!*
 
+https://danyalfaheem.github.io/
+
 <!---
 DanyalFaheem/DanyalFaheem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
